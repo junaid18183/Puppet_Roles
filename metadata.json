@@ -1,0 +1,14 @@
+{
+  "name": "junaid18183-roles",
+  "version": "0.0.1",
+  "author": "junaid18183@gmail.com",
+  "summary": "Collection of Puppet Roles",
+  "license": "Apache 2.0",
+  "source": "git@github.com:junaid18183/Puppet_Roles.git",
+  "project_page": "git@github.com:junaid18183/Puppet_Roles.git",
+  "issues_url": "git@github.com:junaid18183/Puppet_Roles.git",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
